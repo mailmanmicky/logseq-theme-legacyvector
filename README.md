@@ -8,3 +8,5 @@ Currently, this theme is light mode only. And while a dark mode isn't really pla
 ## Preview
 
 ![Legacy Vector Theme Preview](lv-theme-preview.png)
+
+![Legacy Vector Theme Preview](lv-theme-preview-no2.png)
