@@ -1,4 +1,4 @@
-<h1 align="center">MediaWiki Legacy Vector theme for Logseq </h1>
+<h1 align="center">MediaWiki Legacy Vector Theme for Logseq </h1>
 
 <p align="center">
   <a href="https://github.com/mailmanmicky/logseq-legacyvector-theme/stargazers"><img src="https://img.shields.io/github/stars/mailmanmicky/logseq-legacyvector-theme"></a>
