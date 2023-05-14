@@ -7,7 +7,7 @@
 </p>
 
 ## Overview
-This theme imitates the look and feel of Mediawiki's Legacy Vector skin. At the moment this project is in a pre-release state and will not be avaliable for download.
+This theme imitates the look and feel of Mediawiki's Legacy Vector skin. At the moment this project is in a pre-release state and will not be avaliable for download. However, regular preview updates should be avaliable until release.
 
 ## Preview
 
