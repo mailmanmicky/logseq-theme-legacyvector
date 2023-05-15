@@ -6,7 +6,7 @@ This theme imitates the look and feel of Mediawiki's Legacy Vector skin. At the 
 Currently, this theme is light mode only. And while dark mode isn't really planned, I wouldn't mind creating it.
 
 ## Preview
-> Screenshots show a pre-release, feature incomplete version
+> Screenshots show a pre-release, feature incomplete version.
 
 ![Legacy Vector Theme Preview](doc/lv-theme-preview.png)
 
