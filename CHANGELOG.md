@@ -1,3 +1,16 @@
+## pre 5.12.20 (May 16, 2023) (AEST)
+
+> ### Highlights
+
+* Changes to highlights
+* Utility addditions
+<br>
+
+> ### Features
+
+* **highlight:** Changed background to `#ffff00`
+* **util:** Added variables for yellow color and link colors
+
 ## pre 5.12.19 (May 16, 2023) (AEST)
 
 > ### **Highlights**
