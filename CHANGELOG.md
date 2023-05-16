@@ -1,3 +1,14 @@
+## pre 5.12.21 (May 16, 2023) (AEST)
+
+> ### Highlights
+
+* Changes to formatting
+<br>
+
+> ### Features
+
+* **format:** changed link color to `#0645ad`
+
 ## pre 5.12.20 (May 16, 2023) (AEST)
 
 > ### Highlights
