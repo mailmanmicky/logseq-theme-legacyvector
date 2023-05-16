@@ -2,30 +2,30 @@
 
 > ### Highlights
 
-* Changes to highlights
+* Changes to formatting
 * Utility addditions
 <br>
 
 > ### Features
 
-* **highlight:** Changed background to `#ffff00`
-* **util:** Added variables for yellow color and link colors
+* **format:** changed highlight background to `#ffff00`
+* **util:** added variables for yellow color and link colors
 
 ## pre 5.12.19 (May 16, 2023) (AEST)
 
 > ### **Highlights**
-* Changes to admonitions
+* Changes to formatting
 <br>
 
 > ### Features
-* **admonition:** Use universal selector to change content to `font-size:14px` by default
+* **format:** use universal selector to change content of admonitions to `font-size:14px` by default
 
 
 ## pre 5.12.18 (May 16, 2023) (AEST)
 
 > ### **Highlights**
-* Changes to admonitions
+* Changes to formatting
 <br>
 
 > ### Features
-* **admonition:** Use non tranclucent backgrounds.
+* **format:** use non tranclucent backgrounds for admonitions.
