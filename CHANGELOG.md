@@ -7,7 +7,7 @@
 
 > ### Features
 
-* **format:** changed link color to `#0645ad`
+* **format:** changed link colors to `#0645ad`
 
 ## pre 5.12.20 (May 16, 2023) (AEST)
 
