@@ -5,4 +5,4 @@
 <br>
 
 > ### Features
-* **admonition:** Use non transparent backgrounds.
+* **admonition:** Use non tranclucent backgrounds.
