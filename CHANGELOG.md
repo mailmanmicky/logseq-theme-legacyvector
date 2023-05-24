@@ -7,7 +7,7 @@
 
 > ### Features
 
-* **min:** Lessened code pertaining to sidebar
+* **min:** lessened code pertaining to sidebar
 
 ## pre 5.13.21 (May 17, 2023) (AEST)
 
