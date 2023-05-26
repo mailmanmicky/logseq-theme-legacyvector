@@ -1,3 +1,14 @@
+## pre 5.13.23 (May 27, 2023) (AEST)
+
+> ### Highlights
+
+* Bugfixes
+<br>
+
+> ### Features
+
+* **bugfix:** fixed page creation modal width
+
 ## pre 5.13.22 (May 25, 2023) (AEST)
 
 > ### Highlights
