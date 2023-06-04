@@ -1,3 +1,15 @@
+## pre 5.13.24 (Jun 5, 2023) (AEST)
+
+> ### Highlights
+
+* Changes to positioning
+<br>
+
+> ### Features
+
+* **pos:** repositioned modal closer to the middle of the page
+
+
 ## pre 5.13.23 (May 27, 2023) (AEST)
 
 > ### Highlights
