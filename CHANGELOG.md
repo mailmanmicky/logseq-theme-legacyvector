@@ -1,3 +1,14 @@
+## pre 5.13.25 (Jun 21, 2023) (AEST)
+
+> ### Highlights
+
+* Changes to task block markers
+<br>
+
+> ### Features
+
+* **format:** changed task block markers to look more like inline code elements
+
 ## pre 5.13.24 (Jun 5, 2023) (AEST)
 
 > ### Highlights
