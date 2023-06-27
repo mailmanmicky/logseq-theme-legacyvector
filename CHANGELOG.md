@@ -1,3 +1,13 @@
+## pre 5.14.25 (Jun 27, 2023) (AEST)
+
+* **add:** `background-white` and `box-shadow` property to `.tippy-tooltip > div > div`
+* **add:** `border-top` property to `#main-container`
+* **adjust:** `.cp__right-sidebar-scrollable .sidebar-item-list` `margin-top` property
+* **change:** `#main-container` width to `900px`
+* **change:** secondary background color to `#f8f9fa`
+* **remove:** `border-bottom` property on `#head`
+* **replace:** `border` property with the `border-top` property on `.cp__right-sidebar-scrollable .sidebar-item-list`
+
 ## pre 5.13.25 (Jun 21, 2023) (AEST)
 
 > ### Highlights
